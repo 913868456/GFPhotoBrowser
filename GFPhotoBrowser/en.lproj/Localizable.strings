@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  GFPhotoBrowser
+
+  Created by 防神 on 2019/2/2.
+  Copyright © 2019年 吃面多放葱. All rights reserved.
+*/
+
+"ALL_PHOTOS" = "All Photos";
+"DONE" = "Done";
+"CANCEL" = "Cancel";
+"PREVIEW" = "Preview";
